@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1611577106 source:c:\users\dino\onedrive\radna površina\2. godina - it\strukture i algoritmi\strukture\balansirajucestablo\balansirajucestablo.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<algorithm>
+	"BalansirajuceStablo.h"
+
+1611452977 c:\users\dino\onedrive\radna površina\2. godina - it\strukture i algoritmi\strukture\balansirajucestablo\balansirajucestablo.h
+	<vector>
+	"BalansirajuceStablo.cpp"
+
+1611577106 c:\users\dino\onedrive\radna površina\2. godina - it\strukture i algoritmi\strukture\balansirajucestablo\balansirajucestablo.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<algorithm>
+	"BalansirajuceStablo.h"
+
+1611442007 source:c:\users\dino\onedrive\radna površina\2. godina - it\strukture i algoritmi\strukture\balansirajucestablo\main.cpp
+	<iostream>
+	<cstdlib>
+	"BalansirajuceStablo.h"
+
+1611577106 source:c:\users\dino\onedrive\radna površina\balansirajuæe stablo\balansirajucestablo\balansirajucestablo.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<algorithm>
+	"BalansirajuceStablo.h"
+
+1611452977 c:\users\dino\onedrive\radna površina\balansirajuæe stablo\balansirajucestablo\balansirajucestablo.h
+	<vector>
+	"BalansirajuceStablo.cpp"
+
+1612709859 c:\users\dino\onedrive\radna površina\balansirajuæe stablo\balansirajucestablo\balansirajucestablo.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<algorithm>
+	"BalansirajuceStablo.h"
+
+1611860698 source:c:\users\dino\onedrive\radna površina\balansirajuæe stablo\balansirajucestablo\main.cpp
+	<iostream>
+	<cstdlib>
+	"BalansirajuceStablo.h"
+
